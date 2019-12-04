@@ -1,0 +1,5 @@
+entity Profile {
+  name String, 
+  id  Integer,
+ spec String
+}
